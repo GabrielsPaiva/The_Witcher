@@ -22,7 +22,7 @@ height: 100%;
 cursor: pointer;
 `
 export const Title = styled.h2`
-font-size: clamp(15px, 0.9vw, 25px);
+font-size: clamp(12px, 0.9vw, 25px);
 font-weight: 400;
 margin: 0.8% 3% 0 0;
 text-transform: uppercase;
